@@ -1,0 +1,8 @@
+~User Speaks: The user's speech is captured by the device's microphone.
+~Preprocessing: The raw audio is cleaned up:
+  Background noise reduction
+  Segmentation into manageable chunks
+~Speech-to-Text (STT) Engine: A speech recognition model (there are many cloud-based services like Google Cloud Speech-to-Text or open-source options) will:
+  Analyze the audio signal
+  Map sound patterns to phonemes (basic units of sound)
+  Generate a text representation of the user's utterance
