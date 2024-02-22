@@ -1,4 +1,4 @@
-~User Speaks: The user's speech is captured by the device's microphone.
+~~User Speaks: The user's speech is captured by the device's microphone.
 ~Preprocessing: The raw audio is cleaned up:
   Background noise reduction
   Segmentation into manageable chunks
